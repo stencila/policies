@@ -274,8 +274,9 @@ Depending on the settings chosen by the Owner, Users may also leave
     anonymous comments. If there is an email address among the Personal
     Data provided by the User, it may be used to send notifications of
     comments on the same content. Users are responsible for the content
-    of their own comments.\
-    If a content commenting service provided by third parties is
+    of their own comments.
+
+If a content commenting service provided by third parties is
     installed, it may still collect web traffic data for the pages where
     the comment service is installed, even when Users do not use the
     content commenting service.
@@ -286,10 +287,9 @@ Disqus is a content commenting service provided by Big Heads Labs Inc.
 Personal Data collected: Cookies, Usage Data and various types of
     Data as specified in the privacy policy of the service.
 
-Place of processing: United States -- [Privacy
-    Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
-    -- [Opt
-    out](https://help.disqus.com/customer/portal/articles/1657951).
+Place of processing: United States
+-- [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
+-- [Opt out](https://help.disqus.com/customer/portal/articles/1657951).
 
 ### Data transfer outside the EU
 
@@ -618,19 +618,6 @@ If you link your ORCID account with Stencila Hub, we will collect
     and ORCID id. For ORCID Privacy Policy see
     https://orcid.org/privacy-policy
 
-### ORCID
-
-If you link your ORCID account with Stencila Hub, we will collect
-    the information that you provided to ORCID such as your name, email
-    and ORCID id. For ORCID Privacy Policy see
-    https://orcid.org/privacy-policy
-
-### ORCID
-If you link your ORCID account with Stencila Hub, we will collect
-    the information that you provided to ORCID such as your name, email
-    and ORCID id. For ORCID Privacy Policy see
-    https://orcid.org/privacy-policy
-
 ### Intercom
 Intercom is used for communication with Stencila Hub users and all
     information provided and stored within Intercom such as username,
@@ -827,4 +814,4 @@ Data Protection Regulation).
 This privacy policy relates solely to Stencila Hub, if not stated
 otherwise within this document.
 
-*Latest update: September 11, 2018*
+*Latest update: September 28, 2018*
