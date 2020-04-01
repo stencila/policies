@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/stencila/policies/compare/v1.1.0...v1.1.1) (2020-04-01)
+
+### Bug Fixes
+
+- **Build:** Include privacy in build; add index ([130d3b7](https://github.com/stencila/policies/commit/130d3b79784e2b318db8f008fcf232a7dd7293de))
+
 # [1.1.0](https://github.com/stencila/policies/compare/v1.0.0...v1.1.0) (2020-04-01)
 
 ### Features
