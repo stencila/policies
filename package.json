@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier *.md --write",
-    "build": "npm run cname && npm run index && npm run conduct && npm run privacy",
-    "cname": "echo policies.stenci.la > docs/CNAME",
+    "build": "npm run index && npm run conduct && npm run privacy && npm run cname",
     "index": "encoda convert README.md docs/index.html",
     "conduct": "encoda convert conduct.md docs/conduct.html",
-    "privacy": "encoda convert privacy.md docs/privacy.html"
+    "privacy": "encoda convert privacy.md docs/privacy.html",
+    "cname": "echo policies.stenci.la > docs/CNAME"
   },
   "repository": {
     "type": "git",
