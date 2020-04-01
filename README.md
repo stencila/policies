@@ -1,6 +1,4 @@
-## `stencila/policies`: Stencila's policies, guidelines and legal stuff
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+# ⚖️ Policies, code of conduct and other information
 
 This repository is where we keep Stencila's policies, guidelines and legal stuff. Everything is available under a Creative Commons Attribution-ShareAlike [license](LICENSE.md). Just like our code, we think these policies and guidelines should be open source too!
 
