@@ -70,7 +70,8 @@
             "package.json",
             "package-lock.json",
             "CHANGELOG.md"
-          ]
+          ],
+          "message": "chore(Release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
         }
       ],
       "@semantic-release/github",
