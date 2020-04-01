@@ -1,3 +1,14 @@
+# [1.2.0](https://github.com/stencila/policies/compare/v1.1.2...v1.2.0) (2020-04-01)
+
+### Bug Fixes
+
+- **Privacy:** Add examples for interactions with Google services ([a6c6ae1](https://github.com/stencila/policies/commit/a6c6ae1cd2de3ca2de72eb1992a8880228f4c2e3))
+
+### Features
+
+- **Dev:** Add live reloading for better project development ([7bcbd0e](https://github.com/stencila/policies/commit/7bcbd0e4b19566869a2eafa30c45a5285d29a296))
+- **ToS:** Add Terms of Service document ([39c0127](https://github.com/stencila/policies/commit/39c0127812b3d2992310b834449a6a2ecebb694f))
+
 ## [1.1.2](https://github.com/stencila/policies/compare/v1.1.1...v1.1.2) (2020-04-01)
 
 ### Bug Fixes
