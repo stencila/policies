@@ -6,7 +6,8 @@
   "scripts": {
     "format": "prettier *.md --write",
     "build": "npm run conduct",
-    "conduct": "encoda convert CONDUCT.md docs/conduct.html"
+    "conduct": "encoda convert CONDUCT.md docs/conduct.html",
+    "privacy": "encoda convert privacy.md docs/privacy.html"
   },
   "repository": {
     "type": "git",
