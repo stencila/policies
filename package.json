@@ -9,7 +9,8 @@
     "index": "encoda convert README.md docs/index.html",
     "conduct": "encoda convert conduct.md docs/conduct.html",
     "privacy": "encoda convert privacy.md docs/privacy.html",
-    "cname": "echo policies.stenci.la > docs/CNAME"
+    "cname": "echo policies.stenci.la > docs/CNAME",
+    "dev": "browser-sync docs -s docs -f docs"
   },
   "repository": {
     "type": "git",
@@ -29,7 +30,8 @@
   "homepage": "https://github.com/stencila/policies#readme",
   "devDependencies": {
     "@stencila/dev-config": "1.4.23",
-    "@stencila/encoda": "0.93.2"
+    "@stencila/encoda": "0.93.2",
+    "browser-sync": "^2.26.7"
   },
   "commitlint": {
     "extends": [
