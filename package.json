@@ -1,0 +1,80 @@
+{
+  "name": "@stencila/policies",
+  "version": "1.0.0",
+  "description": "Stencila's policies, code of conduct and other information",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier *.md --write",
+    "build": "npm run conduct",
+    "conduct": "encoda convert CONDUCT.md docs/conduct.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stencila/policies.git"
+  },
+  "keywords": [
+    "Stencila",
+    "policies",
+    "conduct",
+    "privacy"
+  ],
+  "author": "Stencila and contributors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stencila/policies/issues"
+  },
+  "homepage": "https://github.com/stencila/policies#readme",
+  "devDependencies": {
+    "@stencila/dev-config": "1.4.23",
+    "@stencila/encoda": "0.93.2"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "scope-case": [
+        2,
+        "always",
+        "sentence-case"
+      ],
+      "subject-case": [
+        2,
+        "always",
+        "sentence-case"
+      ]
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "prettier": "@stencila/dev-config/prettier-config.json",
+  "renovate": {
+    "extends": [
+      "@stencila"
+    ]
+  },
+  "release": {
+    "extends": "@stencila/semantic-release-config",
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "package.json",
+            "package-lock.json",
+            "CHANGELOG.md"
+          ]
+        }
+      ],
+      "@semantic-release/github",
+      "@qiwi/semantic-release-gh-pages-plugin"
+    ]
+  }
+}
