@@ -7,9 +7,9 @@ guidelines etc. Everything is available under a Creative Commons Attribution-Sha
 [license](https://github.com/stencila/policies/blob/master/LICENSE.md). Just like our code, we think these policies and
 guidelines should be open source too!
 
-- [Code of Conduct](./conduct.html)
-- [Privacy Policy](./privacy.html)
-- [Terms of Service](./terms.html)
+- [Code of Conduct](https://policies.stenci.la/conduct)
+- [Privacy Policy](https://policies.stenci.la/privacy)
+- [Terms of Service](https://policies.stenci.la/terms)
 
 ## Contribute
 
