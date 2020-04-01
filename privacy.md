@@ -23,7 +23,7 @@ This Policy does not apply to information collected by any third party, includin
 
 ## Information We Collect
 
-When using this website, several types of information are collected. The information is utilized to provide an efficient and productive experience to all visitors. In some cases, the data may be accessible to people involved with the operation of the site (administration, legal, or system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, or IT companies.
+When using this website and related services, several types of information are collected. The information is utilized to provide an efficient and productive experience to all visitors. In some cases, the data may be accessible to people involved with the operation of the site (administration, legal, or system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, or IT companies.
 
 We collect the following types of information:
 
@@ -39,18 +39,18 @@ Information is collected when you:
 - Subscribe to a newsletter; and
 - If you use a social media platform or your mobile device (or other methods of communication) to interact with me, the communication method or application may have a specific and independent privacy policy that governs the use of Personal Information.
 
-When you use this website, we may collect specific information as described below to improve this website, troubleshoot bugs, provide the website, manage the site, track usage, and provide content for referring traffic sources. Such information may include IP address; technical session information; browser type; information about your computer, hardware, software, or mobile device; navigational data, clickstream data, and language preference. IP addresses are recorded for security and monitoring and providing this website. If you arrived at this website via a link from another webpage, we might receive aggregate or otherwise anonymous statistical information about your visit to this site. We monitor traffic patterns and site usage to help us develop the design of the site, and to improve the content of this website to better match the interests of website visitors. We may combine this automatically collected and other Non-Personal Information with Personal Information, in which case we will treat the combined information as Personal Information under this Privacy Policy.
+When you use Stencila websites, we may collect specific information as described below to improve our services, troubleshoot bugs, provide the website, manage the site, track usage, and provide content for referring traffic sources. Such information may include IP address; technical session information; browser type; information about your computer, hardware, software, or mobile device; navigational data, clickstream data, and language preference. IP addresses are recorded for security and monitoring and providing this website. If you arrived at this website via a link from another webpage, we might receive aggregate or otherwise anonymous statistical information about your visit to this site. We monitor traffic patterns and site usage to help us develop the design of the site, and to improve the content of this website to better match the interests of website visitors. We may combine this automatically collected and other Non-Personal Information with Personal Information, in which case we will treat the combined information as Personal Information under this Privacy Policy.
 
 ## How we Use Your Information
 
 We use collected Information about you or that you provide to me, including any Personal Information, to:
 
-- Operate and improve this website;
-- Track and analyze the use of this website;
-- Communicate and provide additional information that may be of interest to you about this website, merchants, and partners, such as news, offers and coupons, announcements, and other relevant materials;
+- Operate and improve this website and related services;
+- Track and analyze the use of this website and related services;
+- Communicate and provide additional information that may be of interest to you about this website, related services, merchants, and partners, such as news, offers and coupons, announcements, and other relevant materials;
 - Send you reminders, notices, updates, security alerts, support or administrative messages;
 - Manage everyday needs, such as website administration, analytics, fraud detection and prevention, compliance with the law or reporting obligation; and
-- Aggregate anonymous data from this website to benchmark, analyze, and improve it.
+- Aggregate anonymous data from this website and related services to benchmark, analyze, and improve it.
 
 ### Disclosure of Your Information
 
@@ -59,6 +59,8 @@ We use disclose Information about you or that you provide to me, including any P
 - Service providers, which offer services for us including but not limited to delivering analytics services and help us provide services as requested by visitors. Law binds our service providers or contracts to protect the Personal Information and are only allowed to use the Personal Information following this Policy. We do not share, sell, rent, or trade Personal Information with third parties for their promotional purposes, and we will only share Personal Information as outlined herein or with your consent.
 
 - Comply with any court order, law, or legal process, including to respond to any government or regulatory request; and if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of this website, its visitors, or others. This includes exchanging information with other companies and organizations for fraud protection and risk reduction.
+
+Except as outlined above, we do not share, disclose, or sell your personal information.
 
 ## Accessing and Correcting Your Information
 
@@ -81,7 +83,14 @@ GitHub OAuth is a registration and authentication service provided by GitHub Inc
 ### Google
 
 Google OAuth is a registration and authentication service provided by Google LLC and is connected to the Google network.
-This service allows Stencila to connect with the User's account on Google Drive, provided by Google LLC.
+This service allows Stencila to connect and interact with the User's account on Google Drive and other services provided
+by Google LLC such as Google Docs.
+
+You may optionally grant Stencila access to your Google account in order to use Stencila provided services
+within Google products. If you choose to do so, we may collect and access information about your account and its
+contents in order to provide you with relevant Stencila services. Such services include creation and modification of
+files stored in your Google Drive, synchronizing changes made by you using Stencila services to your Google account, and
+to provide other necessary Stencila services as outlined in the Privacy Policy and Terms of Service documents.
 
 - Personal data collected: various types of data as specified in the privacy policy of the service.
 - Place of processing: United States.
@@ -110,7 +119,6 @@ PostHog is an open source product analytics service provided by Hiberly Inc. We 
 - Personal data collected: various types of data as specified in the privacy policy of the service.
 - Place of processing: United States.
 - Privacy policy: https://posthog.com/terms/
-
 
 ### Sentry
 
