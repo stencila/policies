@@ -1,12 +1,15 @@
-# ⚖️ Policies, code of conduct and other information
+# ⚖️ Stencila's policies
 
 ## About
 
-This repository is where we keep Stencila's policies, guidelines and legal stuff. Everything is available under a Creative Commons Attribution-ShareAlike [license](LICENSE.md). Just like our code, we think these policies and guidelines should be open source too!
+This [Github repository](https://github.com/stencila/policies) is where we keep Stencila's policies, code of conduct, guidelines etc. Everything is available under a Creative Commons Attribution-ShareAlike [license](https://github.com/stencila/policies/blob/master/LICENSE.md). Just like our code, we think these policies and guidelines should be open source too!
+
+- [Code of Conduct](https://policies.stenci.la/conduct)
+- [Privacy Policy](https://policies.stenci.la/privacy)
 
 ## Contribute
 
-We'd :heart: to get your contributions and feedback - create a pull request or open an issue.
+We'd ❤️ to get your contributions and feedback - create a pull request or open an [issue](https://github.com/stencila/policies/issues/new)!
 
 ## Disclaimer
 
