@@ -31,7 +31,7 @@
   "homepage": "https://github.com/stencila/policies#readme",
   "devDependencies": {
     "@stencila/dev-config": "1.4.23",
-    "@stencila/encoda": "0.93.2",
+    "@stencila/encoda": "1.0.12",
     "browser-sync": "^2.26.7"
   },
   "commitlint": {
